@@ -1,0 +1,5 @@
+n1 = input("¿Cual es tu nombre?")
+n2 = input("¿Cual es tu Apelido?")
+n3 = input("¿cual es tu seccion?")
+n4 = input("¿cual es tu Sede?")
+print(n1, n2,n3,n4)
